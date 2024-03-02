@@ -1,0 +1,17 @@
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\bin\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.exe
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\bin\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.deps.json
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\bin\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.runtimeconfig.json
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\bin\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.dll
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\bin\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.pdb
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar_Rasyiid.Form1.resources
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar_Rasyiid.Properties.Resources.resources
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.csproj.GenerateResource.cache
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.AssemblyInfoInputs.cache
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.AssemblyInfo.cs
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.csproj.CoreCompileInputs.cache
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.dll
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\refint\Tp3_1302220037_Nizar Rasyiid.dll
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.pdb
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\Tp3_1302220037_Nizar Rasyiid.genruntimeconfig.cache
+D:\KPL C#\Tp3_1302220037_Nizar Rasyiid\Tp3_1302220037_Nizar Rasyiid\obj\Debug\net8.0-windows\ref\Tp3_1302220037_Nizar Rasyiid.dll

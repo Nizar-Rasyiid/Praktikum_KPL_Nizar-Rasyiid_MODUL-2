@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6AF29-DD88-4BE9-8879-82B255FEF277}|Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid.csproj|d:\\kpl c#\\tp3_1302220037_nizar rasyiid\\tp3_1302220037_nizar rasyiid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DD6AF29-DD88-4BE9-8879-82B255FEF277}|Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid.csproj|solutionrelative:tp3_1302220037_nizar rasyiid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6AF29-DD88-4BE9-8879-82B255FEF277}|Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid.csproj|d:\\kpl c#\\tp3_1302220037_nizar rasyiid\\tp3_1302220037_nizar rasyiid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6AF29-DD88-4BE9-8879-82B255FEF277}|Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid.csproj|solutionrelative:tp3_1302220037_nizar rasyiid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6AF29-DD88-4BE9-8879-82B255FEF277}|Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid.csproj|d:\\kpl c#\\tp3_1302220037_nizar rasyiid\\tp3_1302220037_nizar rasyiid\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD6AF29-DD88-4BE9-8879-82B255FEF277}|Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid.csproj|solutionrelative:tp3_1302220037_nizar rasyiid\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD6AF29-DD88-4BE9-8879-82B255FEF277}|Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid.csproj|D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\tp3_1302220037_nizar rasyiid\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8DD6AF29-DD88-4BE9-8879-82B255FEF277}|Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid.csproj|solutionrelative:tp3_1302220037_nizar rasyiid\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid\\Form1.cs",
+              "RelativeDocumentMoniker": "Tp3_1302220037_Nizar Rasyiid\\Form1.cs",
+              "ToolTip": "D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid\\Form1.cs [Design]",
+              "RelativeToolTip": "Tp3_1302220037_Nizar Rasyiid\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:58:58.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid\\Form1.cs",
+              "RelativeDocumentMoniker": "Tp3_1302220037_Nizar Rasyiid\\Form1.cs",
+              "ToolTip": "D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid\\Form1.cs",
+              "RelativeToolTip": "Tp3_1302220037_Nizar Rasyiid\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:56:59.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Tp3_1302220037_Nizar Rasyiid\\Form1.Designer.cs",
+              "ToolTip": "D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid\\Form1.Designer.cs",
+              "RelativeToolTip": "Tp3_1302220037_Nizar Rasyiid\\Form1.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:56:49.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid\\Form1.resx",
+              "RelativeDocumentMoniker": "Tp3_1302220037_Nizar Rasyiid\\Form1.resx",
+              "ToolTip": "D:\\KPL C#\\Tp3_1302220037_Nizar Rasyiid\\Tp3_1302220037_Nizar Rasyiid\\Form1.resx",
+              "RelativeToolTip": "Tp3_1302220037_Nizar Rasyiid\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-02T16:56:36.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
